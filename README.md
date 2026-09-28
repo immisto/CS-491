@@ -1,2 +1,2 @@
 # CS-491
-repo for class 491
+Repo for CS 491 Software Engineering
